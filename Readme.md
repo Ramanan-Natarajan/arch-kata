@@ -23,7 +23,7 @@ This application will revolutionize the way people find jobs and companies find 
 #### Context Diagram
 
 <img src="diagrams/context.png" />
-[Diagrams](diagrams/context.png)
+
 
 
 #### Module Diagram
