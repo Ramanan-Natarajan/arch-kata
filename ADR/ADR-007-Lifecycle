@@ -1,0 +1,67 @@
+# ADR-007: Lifecycle
+
+### Date: 2024-09-30
+
+### Status: Accepted
+
+### Decision Maker: Engineering Team
+
+### Context:
+
+Our HR application needs to manage the entire lifecycle of a job, from listing to closure. A well-defined job lifecycle will ensure a consistent and streamlined experience for both candidates and employers.
+
+### Decision:
+
+We will define the following stages for the job lifecycle within our application:
+
+#### Job Listing:
+
+A new job is created and published by an employer.
+The job listing includes details such as title, description, requirements, location, and salary.
+
+#### Candidate Available:
+
+Candidates, who have uploaded their resumes, indicating that they are open for a job
+
+#### Job Matched:
+
+Our system matches candidates to jobs based on skills, experience, and preferences.
+This is  done through AI-powered matching algorithms.
+
+#### Unlock Candidate
+
+Hiring manangers, when they express interest in a candidate and then pay for unlocking the resume
+
+#### Candidate info shared
+
+Information regarding the candidate is shared to the hiring HR platform
+
+
+#### Interview Scheduled:
+
+Interviews are scheduled between the candidate and the employer.
+
+
+#### Hired/Rejected:
+
+The employer makes a decision to hire or reject the candidate after the interview process.
+The system updates the candidate's and the Job status (if applicable)  accordingly 
+
+#### Candidature Withdrawn/Closed:
+
+A candidate may withdraw their application or the employer may close the job listing.
+The system marks the job as closed and updates the candidate's status. 
+
+
+### Consequences:
+
+**Structured Workflow**: Provides a clear and organized process for managing jobs and candidates, improves efficiency and streamlines the process
+**Improved Tracking and Reporting**: Allows for better tracking of job progress and generation of insightful reports.
+**Enhanced User Experience**: Creates a seamless and intuitive experience for both job seekers and employers. They where where things are in the pipeline
+
+### Notes:
+
+- The system will provide notifications and alerts to relevant users at different stages of the job lifecycle.
+- We will implement access control mechanisms to ensure that sensitive information is only accessible to authorized users.
+- The job lifecycle can be customized to accommodate specific workflows or industry requirements.
+- This ADR defines a comprehensive job lifecycle that will guide the development and implementation of our HR application, ensuring a structured and efficient hiring process
