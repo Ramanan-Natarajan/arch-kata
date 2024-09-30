@@ -19,9 +19,14 @@ This application will revolutionize the way people find jobs and companies find 
   
 - **Integration with leading HR platforms**: Seamlessly connect with existing HR systems to deliver the interested profiles, streamlining the hiring workflow.
 
-[Diagrams][diagrams/Clearview-Context diagram.png]
 
-[Diagrams][./diagrams/module-diagram.png]
+#### Context Diagram
+
+[Diagrams](diagrams/Clearview-Context diagram.png)
+
+
+#### Module Diagram
+[Diagrams](./diagrams/module-diagram.png)
 
 #### Built for diversitycybercouncil.com
 
