@@ -1,4 +1,4 @@
-# ADR-003: Component Selection - Prioritizing Open Source and Avoiding Vendor Lock-in
+# ADR-003: Build vs Buy (Component Selection - Prioritizing Open Source and Avoiding Vendor Lock-in)
 
 ### Date: 2024-09-30
 ### Status: Accepted
