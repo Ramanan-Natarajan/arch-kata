@@ -21,7 +21,7 @@ This application will revolutionize the way people find jobs and companies find 
 
 ![Diagrams][diagrams/Clearview-Context diagram.png]
 
-![Diagrams][https://github.com/Ramanan-Natarajan/arch-kata/blob/main/diagrams/module-diagram.png]
+![Diagrams][./diagrams/module-diagram.png]
 
 #### Built for diversitycybercouncil.com
 
