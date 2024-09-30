@@ -22,11 +22,11 @@ This application will revolutionize the way people find jobs and companies find 
 
 #### Context Diagram
 
-[Diagrams](diagrams/Clearview-Context diagram.png)
+[Diagrams](diagrams/context.png)
 
 
 #### Module Diagram
-[Diagrams](./diagrams/module-diagram.png)
+[Diagrams](diagrams/container-module.png)
 
 #### Built for diversitycybercouncil.com
 
