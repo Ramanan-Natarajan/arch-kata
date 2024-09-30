@@ -22,11 +22,15 @@ This application will revolutionize the way people find jobs and companies find 
 
 #### Context Diagram
 
+<img src="diagrams/context.png" />
 [Diagrams](diagrams/context.png)
 
 
 #### Module Diagram
-[Diagrams](diagrams/container-module.png)
+
+
+<img src="diagrams/container-module.png" />
+[Diagrams](diagrams/)
 
 #### Built for diversitycybercouncil.com
 
