@@ -30,7 +30,7 @@ This application will revolutionize the way people find jobs and companies find 
 
 
 <img src="diagrams/container-module.png" />
-[Diagrams](diagrams/)
+
 
 #### Built for diversitycybercouncil.com
 
