@@ -38,4 +38,4 @@ We are designing the architecture for Clear View, a service-oriented application
 
 This ADR will be reviewed and updated as the Clear View project progresses and new insights emerge.
 
-Architecture Characteristic Worksheet<img src="diagrams/arch-char.jpg">
+Architecture Characteristic Worksheet<img src="../diagrams/arch-char.jpg">
