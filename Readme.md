@@ -42,9 +42,15 @@ Even though the UI is depicted in various services, these will be shown to the u
 ## TODO
 
    
-1. Build sequence diagrams for these flows
-2. Assumption is a single web based mechanism today for users. We may have an APP later (as we have everything behind API's)
-3. Horizontal concerns are common - Observability, Security are common. Build them appropriately as libraries/services
+1. The flow for a DEI supervisors to analyse and give feedback is yet to be developed. It will be a part of version 1.1
+2. Define what are the key metrics (a few are)
+   1. #of hiring % and rejection %
+   2. #Top  3 reasons for Rejection and Hiring
+   3. Average Salary per Job level
+   4. 
+3. Build sequence diagrams for these flows
+4. Assumption is a single web based mechanism today for users. We may have an APP later (as we have everything behind API's)
+5. Horizontal concerns are common - Observability, Security are common. Build them appropriately as libraries/services
 
 
 
