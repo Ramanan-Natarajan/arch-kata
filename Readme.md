@@ -35,7 +35,15 @@ This application will revolutionize the way people find jobs and companies find 
 
 #### Details
 
-Even though the UI is depicted in various services, these will be shown to the users (candidates and companies) as a unified portal. Each would be an MFE - Please refer to the ADR's
+- Even though the UI is depicted in various services, these will be shown to the users (candidates and companies) as a unified portal. Each would be an MFE - Please refer to the ADR's
+- Matchmaker will send in the candidate story and the Job details to the LLM and will have the right match + scores
+
+
+* Some key decisions are in the ADR's
+
+
+
+
 
 
 
@@ -47,10 +55,12 @@ Even though the UI is depicted in various services, these will be shown to the u
    1. #of hiring % and rejection %
    2. #Top  3 reasons for Rejection and Hiring
    3. Average Salary per Job level
-   4. 
+   
 3. Build sequence diagrams for these flows
 4. Assumption is a single web based mechanism today for users. We may have an APP later (as we have everything behind API's)
 5. Horizontal concerns are common - Observability, Security are common. Build them appropriately as libraries/services
+6. Intregrate with Linked and other platforms to pull in required info - to be built in subsequent versions
+   
 
 
 
