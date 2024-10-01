@@ -64,4 +64,4 @@ While all the above characteristics are important, we have prioritized the follo
 
 By prioritizing these key characteristics, we aim to build a robust, adaptable, and interoperable application that meets the evolving needs of our users.
 
-<img src="../diagrams/Architecture characteristics-Clearview.jpg]
+<img src="../diagrams/Architecture characteristics-Clearview.jpg">
