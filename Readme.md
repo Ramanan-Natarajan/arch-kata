@@ -29,7 +29,7 @@ This application will revolutionize the way people find jobs and companies find 
 #### Module Diagram
 
 
-<img src="diagrams/containers-v2" />
+<img src="diagrams/containers-v2.png" />
 
 
 #### Built for diversitycybercouncil.com
