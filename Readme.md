@@ -35,7 +35,7 @@ This application will revolutionize the way people find jobs and companies find 
 
 #### Details
 
-Even though the UI is depicted in various services, these will be shown to the users (candidates and companies) as a unified portal. Each would be an MFE 
+Even though the UI is depicted in various services, these will be shown to the users (candidates and companies) as a unified portal. Each would be an MFE - Please refer to the ADR's
 
 
 
