@@ -14,21 +14,17 @@ Our HR application needs to manage the entire lifecycle of a job, from listing t
 
 We will define the following stages for the job lifecycle within our application:
 
-#### Job Listing:
+#### Job Listed:
 
 A new job is created and published by an employer.
 The job listing includes details such as title, description, requirements, location, and salary.
-
-#### Candidate Available:
-
-Candidates, who have uploaded their resumes, indicating that they are open for a job
 
 #### Job Matched:
 
 Our system matches candidates to jobs based on skills, experience, and preferences.
 This is  done through AI-powered matching algorithms.
 
-#### Unlock Candidate
+#### Unlock Candidate Profile
 
 Hiring manangers, when they express interest in a candidate and then pay for unlocking the resume
 
@@ -51,6 +47,7 @@ The system updates the candidate's and the Job status (if applicable)  according
 
 A candidate may withdraw their application or the employer may close the job listing.
 The system marks the job as closed and updates the candidate's status. 
+
 
 
 ### Consequences:

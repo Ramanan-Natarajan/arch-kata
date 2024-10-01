@@ -32,5 +32,27 @@ This application will revolutionize the way people find jobs and companies find 
 <img src="diagrams/containers-v2.png" />
 
 
+
+#### Details
+
+Even though the UI is depicted in various services, these will be shown to the users (candidates and companies) as a unified portal. Each would be an MFE 
+
+
+
+## TODO
+
+   
+1. Build sequence diagrams for these flows
+2. Assumption is a single web based mechanism today for users. We may have an APP later (as we have everything behind API's)
+3. Horizontal concerns are common - Observability, Security are common. Build them appropriately as libraries/services
+
+
+
+### Team
+
+Ramanan Natarajan , Kaushik Krishnan A and Dwaraknath Bakshi
+
+
+
 #### Built for diversitycybercouncil.com
 
